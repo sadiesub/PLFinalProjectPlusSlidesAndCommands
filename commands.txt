@@ -1,0 +1,24 @@
+
+To Run in Part 3 mini-lisp.py
+(exec ‘import Vector; v = Vector.three_vector();  v.run(“$x”)(3); v.run(“$y”)(4); toReturn = v.magnitude()’)
+
+To run in Part4and5 mini-lisp.py
+(exec 'import Stream; Stream.streamIt(78,45,89,45,88,95,99)')
+
+To run in Part4and5 mini-lisp.py
+(mapp "lambda x: x + 1" '(1 2 3))
+
+
+To run in mini_swift.py
+let a = 5
+let b = 6
+let b_sentence = “b is equal to \(b).”
+let const_sentence = “a plus b equals \(a + b).”
+
+
+
+
+
+
+
+
